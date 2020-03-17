@@ -1,5 +1,5 @@
 
-# MATCHA
+# MATCHA: Communication-Efficient Decentralized SGD
 
 Code to reproduce the experiments reported in this paper:
 > Jianyu Wang, Anit Kumar Sahu, Zhouyi Yang, Gauri Joshi, Soummya Kar, "[MATCHA: Speeding Up Decentralized SGD via Matching Decomposition Sampling](https://arxiv.org/abs/1905.09435)," arxiv preprint 2019.
